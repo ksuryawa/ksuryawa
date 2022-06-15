@@ -11,7 +11,9 @@ Skills: Selenium, Rest Assured, Docker, Jenkins, Git, Microservices, Postman, So
 
 💬 Ask me about Selenium, Appium, Rest Assured, Docker
 
-📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://github.com/amuthansakthivel](https://github.com/ksuryawa))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/amuthan-sakthivel-528b89107/](https://www.linkedin.com/in/kapil-suryawanshi-9b75753b/))
+<h3 align="left">📫 How to reach me:</h3>
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([(https://github.com/ksuryawa))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]((https://www.linkedin.com/in/kapil-suryawanshi-9b75753b/))
 
 
 <h3 align="left">Languages and Tools:</h3>
