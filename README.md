@@ -6,7 +6,8 @@ I am a Clean Code and Automation Evangelist who loves to create Industry standar
 Skills: Selenium, Rest Assured, Docker, Jenkins, Git, Microservices, Postman, SoapUI, Springboot, Excel Macros
 
 
-🌱 I’m currently learning Playwright
+🌱 I’m currently learning Playwright <a href ="https://www.youtube.com/watch?v=N6VdiuF9j1M">
+								<b> Playwright - Test Automation Tool  </b> </a>
 
 💬 Ask me about Selenium, Appium, Rest Assured, Docker
 
